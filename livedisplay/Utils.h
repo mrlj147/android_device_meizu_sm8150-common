@@ -22,7 +22,7 @@
 #include <stdlib.h>
 
 namespace vendor {
-namespace mokee {
+namespace lineage {
 namespace livedisplay {
 namespace V2_0 {
 namespace sdm {
@@ -35,7 +35,7 @@ class Utils {
 }  // namespace sdm
 }  // namespace V2_0
 }  // namespace livedisplay
-}  // namespace mokee
+}  // namespace lineage
 }  // namespace vendor
 
 #endif  // VENDOR_MOKEE_LIVEDISPLAY_V2_0_SDM_UTILS_H

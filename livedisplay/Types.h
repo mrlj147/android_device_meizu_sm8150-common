@@ -19,7 +19,7 @@
 #define VENDOR_MOKEE_LIVEDISPLAY_V2_0_SDM_TYPES_H
 
 namespace vendor {
-namespace mokee {
+namespace lineage {
 namespace livedisplay {
 namespace V2_0 {
 namespace sdm {
@@ -73,7 +73,7 @@ struct hsic_ranges {
 }  // namespace sdm
 }  // namespace V2_0
 }  // namespace livedisplay
-}  // namespace mokee
+}  // namespace lineage
 }  // namespace vendor
 
 #endif  // VENDOR_MOKEE_LIVEDISPLAY_V2_0_SDM_TYPES_H
